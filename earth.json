@@ -1,0 +1,14 @@
+{
+	"Earth 지구": {
+		"산": "Mountain",
+		"바다": "Sea",
+		"호수": "Lake",
+		"밭": "Field",
+		"달": "Moon",
+		"강": "River",
+		"나무": "Tree",
+		"별": "Stars",
+		"불": "Fire",
+		"교량": "Bridge"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"": {
+		"아침": "One",
+		"점심": "Two",
+		"저녁": "Three",
+		"밤": "Four",
+		"야식": "Five",
+		"정오": "Six",
+		"지금": "Seven",
+		"이제": "Eight",
+		"요즘": "Nine",
+		"오전": "Ten",
+		"오후": "Twenty",
+		"지난": "Thirty",
+		"이번": "Forty",
+		"다음": "Fifty",
+		"그저께": "Sixty",
+		"어제": "Seventy",
+		"오늘": "Eighty",
+		"내일": "Ninety"
+	}
+}

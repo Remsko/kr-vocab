@@ -1,0 +1,24 @@
+{
+	"Thing 물건": {
+		"모자": "Hat",
+		"안경": "Glasses",
+		"티셔츠": "T-shirt",
+		"셔츠": "Shirts",
+		"손목시계": "Wristwatch",
+		"가방": "Bag",
+		"치마": "Skirt",
+		"바지": "Pants",
+		"청바지": "Jeans",
+		"양말": "Socks",
+		"운동화": "Running shoes",
+		"구두": "Shoes",
+		"슬리퍼": "Slippers",
+		"신발": "Shoes",
+		"지갑": "Wallet",
+		"선물": "Present",
+		"귀고리": "Earrings",
+		"목걸이": "Necklace",
+		"목도리": "Scarf",
+		"반지": "Ring"
+	}
+}

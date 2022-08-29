@@ -1,0 +1,15 @@
+{
+	"Occupation 직업": {
+		"의사": "Doctor",
+		"가수": "Singer",
+		"경찰": "Police officer",
+		"간호사": "Nurse",
+		"요리사": "Cook",
+		"회사원": "Office worker",
+		"학생": "Student",
+		"선생님": "Teacher",
+		"유학생": "International student",
+		"교수님": "Professor",
+		"사장님": "Mr. President"
+	}
+}

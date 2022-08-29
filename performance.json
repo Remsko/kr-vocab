@@ -1,0 +1,8 @@
+{
+	"공연 Performance": {
+		"뮤지컬": "Musical",
+		"연극": "Play",
+		"오페라": "Opera",
+		"콘서트": "Concert"
+	}
+}

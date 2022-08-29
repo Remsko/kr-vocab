@@ -1,0 +1,25 @@
+{
+	"Classroom 교실": {
+		"시계": "Clock",
+		"칠판": "Blackboard",
+		"컴퓨터": "Computer",
+		"창문": "Window",
+		"문": "Door",
+		"공책": "Notebook",
+		"연필": "Pencil",
+		"지우개": "Eraser",
+		"사전": "Dictionary",
+		"책": "Book",
+		"가방": "Bag",
+		"의자": "Chair",
+		"책상": "Desk",
+		"볼펜": "Ballpoint pen",
+		"샤프": "Mechanical pencil",
+		"테이프": "Tape",
+		"필통": "Pencil Case",
+		"달력": "Calendar",
+		"수업": "Lesson",
+		"입학": "School admission",
+		"시험": "Exam"
+	}
+}

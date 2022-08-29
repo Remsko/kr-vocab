@@ -1,0 +1,19 @@
+{
+	"Drink 음료수": {
+		"주스": "Juice",
+		"우유": "Milk",
+		"커피": "Coffee",
+		"물": "Water",
+		"콜라": "Coke",
+		"녹차": "Green tea",
+		"사이다": "Sprite",
+		"탄산음류": "Carbonated drinks",
+		"맥주": "Beer",
+		"소주": "Soju",
+		"광천수": "Mineral water",
+		"두유": "Soy milk",
+		"맛차": "Matcha",
+		"홍차": "Balck tea",
+		"차": "Tea"
+	}
+}

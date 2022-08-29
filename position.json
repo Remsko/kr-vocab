@@ -1,0 +1,17 @@
+{
+	"Location 위치": {
+		"앞": "Front",
+		"뒤": "Back",
+		"옆": "Next to",
+		"위": "Above",
+		"아래": "Below",
+		"밑": "Down",
+		"안": "Inside",
+		"밖": "Outside",
+		"사이": "Between",
+		"방향": "Direction",
+		"왼쪽": "Left",
+		"오른쪽": "Right",
+		"가운데": "In the middle"
+	}
+}

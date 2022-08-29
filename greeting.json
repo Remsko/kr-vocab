@@ -1,0 +1,29 @@
+{
+	"Greeting 인사": {
+		"안녕하세요": "Hello",
+		"안녕하십니까?": "Hello?",
+		"만나서 반가워요": "Nice to meet you",
+		"안녕히 가세요": "Goodbye (go in peace)",
+		"안녕히 계세요": "Goodbye (stay in peace)",
+		"잘 가요": "Goodbye (go well)",
+		"감사합니다": "Thank you",
+		"고맙습니다": "Thank you",
+		"별말씀을요": "You're welcome",
+		"안입니다": "You're welcome",
+		"아니예요": "You're welcome",
+		"잘 지내세요": "Take care of yourself",
+		"잘 지내요": "I'm doing well",
+		"어떻게 지내십니까?": "How are you doing?",
+		"어떻게 지내요?": "How are you doing?",
+		"미안합니다": "Sorry",
+		"죄송합니다": "Sorry",
+		"미안해요": "Sorry",
+		"죄송해요": "Sorry",
+		"괜찮습니다": "I'm okay",
+		"괜찮아요": "I'm okay",
+		"잘 자세요": "Goodnight",
+		"잘 자요": "Goodnight",
+		"나중에 봐요": "See you later",
+		"어서 오세요": "Welcome"
+	}
+}

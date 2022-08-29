@@ -1,0 +1,18 @@
+{
+	"Date 날짜": {
+		"년": "Year",
+		"월": "Month",
+		"일": "Day",
+		"주": "Week",
+		"주중": "Week days",
+		"주말": "Weekend",
+		"월요일": "Monday",
+		"화요일": "Tuesday",
+		"수요일": "Wednesday",
+		"목요일": "Thursday",
+		"금요일": "Friday",
+		"토요일": "Saturday",
+		"일요일": "Sunday",
+		"방학": "Vacation"
+	}
+}

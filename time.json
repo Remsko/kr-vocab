@@ -1,0 +1,31 @@
+{
+	"Time 시간": {
+		"아침": "Morning",
+		"점심": "Lunch",
+		"저녁": "Dinner",
+		"밤": "Night",
+		"야식": "Midnight meal",
+		"정오": "Noon",
+		"지금": "Now",
+		"이제": "Now",
+		"요즘": "These days",
+		"오전": "A.M.",
+		"오후": "Afternoon",
+		"지난": "Last",
+		"이번": "This",
+		"다음": "Next",
+		"그저께": "The day before yesterday",
+		"어제": "Yesterday",
+		"오늘": "Today",
+		"내일": "Tomorrow",
+		"모레": "The day after tomorrow",
+		"매주": "Every week",
+		"매월": "Every month",
+		"매년": "Every year",
+		"매일": "every day",
+		"먼저": "First",
+		"아까": "Right before",
+		"나중에": "Later on",
+		"이따가": "Later"
+	}
+}

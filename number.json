@@ -1,0 +1,21 @@
+{
+	"Number 숫자": {
+		"영": "Zero",
+		"공": "Zero",
+		"일": "One",
+		"이": "Two",
+		"삼": "Three",
+		"사": "Four",
+		"오": "Five",
+		"육": "Six",
+		"칠": "Seven",
+		"팔": "Eight",
+		"구": "Nine",
+		"십": "Ten",
+		"백": "Hundred",
+		"천": "Thousand",
+		"만": "Ten thousand",
+		"십만": "Hundred thousand",
+		"백만": "A Million"
+	}
+}

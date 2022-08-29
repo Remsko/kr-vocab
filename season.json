@@ -1,0 +1,16 @@
+{
+	"Season 계절": {
+		"봄": "Spring",
+		"여름": "Summer",
+		"가을": "Fall",
+		"겨울": "Winter",
+		"날씨": "Weather",
+		"덥다": "to be hot",
+		"춥다": "to be cold",
+		"맑다": "to be clear",
+		"흐리다": "to be cloudy",
+		"바람이 불다": "to be windy",
+		"비가 오다": "to be rainy",
+		"눈이 오다": "to be snowy"
+	}
+}
