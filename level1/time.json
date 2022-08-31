@@ -1,9 +1,10 @@
 {
 	"Time 시간": {
+		"낮": "Daytime",
+		"밤": "Night",
 		"아침": "Morning",
 		"점심": "Lunch",
 		"저녁": "Dinner",
-		"밤": "Night",
 		"야식": "Midnight meal",
 		"정오": "Noon",
 		"지금": "Now",
@@ -26,6 +27,7 @@
 		"먼저": "First",
 		"아까": "Right before",
 		"나중에": "Later on",
-		"이따가": "Later"
+		"이따가": "Later",
+		"올해": "This year"
 	}
 }

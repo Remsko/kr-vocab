@@ -1,0 +1,25 @@
+{
+	"Food 음식": {
+		"국수": "Noodles",
+		"미역국": "Seaweed soup",
+		"라면": "Ramen",
+		"비빔밥": "Bibimbap",
+		"피자": "Pizza",
+		"김밥": "Rice roll",
+		"떡볶이": "Stir-fried rice cake",
+		"냉면": "Cold noodles",
+		"햄버거": "Hamburger",
+		"돈가스": "Pork cutlet",
+		"만두": "Dumpling",
+		"생선": "Fish",
+		"해산물": "Seafood",
+		"스파게티": "Spaghetti",
+		"초밥": "Sushi",
+		"오리고기": "Duck Meat",
+		"치즈": "Cheese",
+		"소시지": "Sausage",
+		"카레": "Curry",
+		"불고기": "Bulgogi",
+		"쌀국수": "Rice noodle"
+	}
+}

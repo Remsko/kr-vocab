@@ -12,8 +12,10 @@
 		"소주": "Soju",
 		"광천수": "Mineral water",
 		"두유": "Soy milk",
-		"맛차": "Matcha",
+		"맛차": "Matcha tea",
 		"홍차": "Balck tea",
-		"차": "Tea"
+		"차": "Tea",
+		"포도주": "Wine",
+		"술": "Alcohol"
 	}
 }

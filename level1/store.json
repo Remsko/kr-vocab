@@ -1,0 +1,14 @@
+{
+	"Store 가게": {
+		"음식점": "Restaurant",
+		"안경점": "Optician's shop",
+		"과일가게": "Fruit shop",
+		"정육점": "Butcher's shop",
+		"빵집": "Bakery",
+		"서점": "Bookstore",
+		"전자상가": "Electronic shopping mall",
+		"약국": "Pharmacy",
+		"문구점": "Stationery store",
+		"대형 할인 매장": "Large discount store"
+	}
+}

@@ -36,6 +36,17 @@
 		"쉽다": "to be easy",
 		"어렵다": "to be hard",
 		"친절하다": "to be kind",
-		"같다": "to be same"
+		"같다": "to be same",
+		"피곤하다": "to be exhausted",
+		"바쁘다": "to be busy",
+		"예쁘다": "to be pretty",
+		"아프다": "to be painful",
+		"고프다": "to be hungry",
+		"나쁘다": "to be bad",
+		"기쁘다": "to be glad",
+		"복잡하다": "to be complicated",
+		"아름답다": "to be beautiful",
+		"초대하다": "to invite",
+		"준비하다": "to get ready"
 	}
 }

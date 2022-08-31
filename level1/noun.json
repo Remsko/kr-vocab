@@ -1,0 +1,33 @@
+{
+	"Noun 명사": {
+		"기분": "Mood",
+		"파티": "Party",
+		"축하": "Celebration",
+		"등산": "Climbing",
+		"꽃": "Flower",
+		"괴물": "Monster",
+		"음악": "Music",
+		"모두": "All",
+		"나이": "Age",
+		"결혼식": "Wedding",
+		"이름": "Name",
+		"살": "Age, Years",
+		"약속": "Promise, Appointment",
+		"운전": "Driving",
+		"예정": "Schedule",
+		"자동판매기": "The vending machine",
+		"탈락": "Fail, Drop out",
+		"전자 제품": "Electronics",
+		"영수증": "Receipt",
+		"번호": "Number",
+		"아르바이트": "Part-time job",
+		"담배": "Cigarette",
+		"자막": "Subtitle",
+		"문화": "Culture",
+		"내용": "Content",
+		"생활": "Life",
+		"신호등": "Traffic light",
+		"횡단보도": "Crosswalk",
+		"사거리": "Intersection"
+	}
+}

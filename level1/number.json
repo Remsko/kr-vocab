@@ -16,6 +16,8 @@
 		"천": "Thousand",
 		"만": "Ten thousand",
 		"십만": "Hundred thousand",
-		"백만": "A Million"
+		"백만": "Million",
+		"천만": "Ten million",
+		"억": "Hundred million"
 	}
 }

@@ -20,6 +20,9 @@
 		"달력": "Calendar",
 		"수업": "Lesson",
 		"입학": "School admission",
-		"시험": "Exam"
+		"시험": "Exam",
+		"초급": "Beginner",
+		"중급": "Intermediate",
+		"고급": "Advanced"
 	}
 }

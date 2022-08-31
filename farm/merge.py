@@ -7,7 +7,7 @@ while True:
     kr_word = kr.readline()
     eng_word = eng.readline()
 
-    if not kr_word or not eng_word:
+    if not kr_word:
         break
     f.write("\"{}\": \"{}\",".format(kr_word.strip(), eng_word.strip()))
 f.write("}}")

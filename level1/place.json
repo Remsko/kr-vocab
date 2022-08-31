@@ -36,6 +36,17 @@
 		"고향": "Hometown",
 		"회사": "Company",
 		"층": "Floor",
-		"노래방": "Karaoke room"
+		"노래방": "Karaoke room",
+		"가게": "Shop",
+		"도시": "City",
+		"알프스": "the Alps",
+		"박물관": "Museum",
+		"곳": "Place",
+		"시청": "City Hall",
+		"부동산": "Real estate",
+		"사무실": "Office",
+		"체육관": "Gym",
+		"스포츠센터": "Sports center",
+		"사거리": "Intersection"
 	}
 }

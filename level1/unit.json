@@ -1,0 +1,21 @@
+{
+	"Unit 단위": {
+		"권": "Volume, Book, Copy",
+		"잔": "Cup, Glass",
+		"마리": "Animals",
+		"그릇": "Dish, Plate",
+		"송이": "Bunch (of), Cluster (of)",
+		"개": "Piece, Unit",
+		"병": "Bottle, Jar",
+		"장": "Page, Chapter",
+		"대": "Devices",
+		"그루": "Trees",
+		"켤레": "Pair",
+		"판": "Plate",
+		"조각": "Piece (of), Slice (of)",
+		"벌": "Set",
+		"살": "Age, Years",
+		"명": "Peoples",
+		"분": "Peoples (honorific)"
+	}
+}

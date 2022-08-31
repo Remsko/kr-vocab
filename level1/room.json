@@ -29,6 +29,10 @@
 		"라디오": "Radio",
 		"벽": "Wall",
 		"카메라": "Camera",
-		"텔레비전": "Television"
+		"텔레비전": "Television",
+		"우산": "Umbrella",
+		"편지": "Letter",
+		"우표": "Stamp",
+		"이메일": "Email"
 	}
 }

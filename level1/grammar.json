@@ -1,0 +1,28 @@
+{
+	"Grammar 문법": {
+		"받침": "Final consonant",
+		"명사": "Noun",
+		"동사": "Verb",
+		"형용사": "Adjective",
+		"부사": "Adverb",
+		"문장": "Sentence",
+		"방향": "Direction",
+		"단어": "Word",
+		"언어": "Language",
+		"명령문": "Imperative sentence",
+		"청유문": "Request sentence",
+		"현재": "Present",
+		"미래": "Future",
+		"과거": "Past",
+		"시제": "Tense",
+		"문제": "Question, Problem",
+		"이유": "Reason",
+		"가능성": "Possibilty",
+		"주관적 소신": "Subjective belief",
+		"결합": "Combination",
+		"희망": "Hope",
+		"불규칙": "Irregular",
+		"명령": "Order, Instructions",
+		"반복": "Repetition"
+	}
+}

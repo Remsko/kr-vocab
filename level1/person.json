@@ -1,0 +1,19 @@
+{
+	"Person 사람": {
+		"친구": "Friend",
+		"외국인": "Foreigner",
+		"아이": "Child",
+		"소녀": "Girl",
+		"소년": "Boy",
+		"아주머니": "Aunt, Lady",
+		"아저씨": "Uncle, Mister",
+		"아가씨": "Young lady",
+		"우리": "We",
+		"여러분": "(all of) You",
+		"친소": "One's close acquaintance",
+		"회원": "Member",
+		"직원": "Staff",
+		"사장님": "Mr. President",
+		"애인": "Lover"
+	}
+}

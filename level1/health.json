@@ -1,0 +1,19 @@
+{
+	"Health 건강": {
+		"기침": "Cough",
+		"감기": "Coldsick",
+		"열": "Fever",
+		"증상": "Symptom",
+		"약": "Medicine",
+		"일약": "Pill",
+		"물약": "Liquid medicine",
+		"두통약": "Headache tablet",
+		"치과": "Dentistry",
+		"안과": "Ophthalmology",
+		"내과": "Internal medicine department",
+		"정형외과": "Orthopedics",
+		"피부과": "Dermatology",
+		"이비인후과": "Otolaryngology",
+		"성형외과": "Plastic surgery"
+	}
+}

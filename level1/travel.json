@@ -1,0 +1,25 @@
+{
+	"Travel 여행": {
+		"교통 수단": "Transportation",
+		"계획": "Plan",
+		"해외": "Overseas",
+		"기차": "Train",
+		"버스": "Bus",
+		"비행기": "Airplane",
+		"배": "Ship",
+		"택시": "Taxi",
+		"자전거": "Bicycle",
+		"차": "Car",
+		"자동차": "Car",
+		"객차": "Car",
+		"지하철": "Subway",
+		"오토바이": "Motorcycle",
+		"말": "Horse",
+		"스쿠터": "Scooter",
+		"나룻배": "Ferryboat",
+		"기차표": "Train ticket",
+		"요금": "Charge, Fee",
+		"여권": "Passport",
+		"호선": "Line"
+	}
+}

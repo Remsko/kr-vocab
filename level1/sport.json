@@ -1,0 +1,17 @@
+{
+	"Sport 운동": {
+		"요가": "Yoga",
+		"배구": "Volleyball",
+		"농구": "Basketball",
+		"야구": "Baseball",
+		"태권도": "Taekwondo",
+		"테니스": "Tennis",
+		"수영": "Swimming",
+		"축구": "Soccer",
+		"골프": "Golf",
+		"배드민턴": "Badminton",
+		"탁구": "Ping-pong",
+		"스키": "Ski",
+		"스케이트": "Skating"
+	}
+}

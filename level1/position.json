@@ -12,6 +12,7 @@
 		"방향": "Direction",
 		"왼쪽": "Left",
 		"오른쪽": "Right",
-		"가운데": "In the middle"
+		"가운데": "In the middle",
+		"똑바로": "Straight"
 	}
 }
